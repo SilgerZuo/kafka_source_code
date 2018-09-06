@@ -1,0 +1,6 @@
+help
+run
+ls
+run  Kafka
+ls
+exit
