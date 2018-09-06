@@ -1,4 +1,6 @@
-Apache Kafka
+# this project is only for learn
+copy from  Apache Kafka,only add some note
+
 =================
 See our [web site](http://kafka.apache.org) for details on the project.
 
